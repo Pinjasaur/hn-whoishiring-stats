@@ -33,3 +33,7 @@ deno run --allow-net index.ts | pbcopy
 ## Related
 
 - <https://github.com/bobbywilson0/hn-whos-hiring/>
+
+## License
+
+[MIT](https://pinjasaur.mit-license.org/@2024).
