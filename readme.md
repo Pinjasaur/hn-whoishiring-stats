@@ -1,6 +1,10 @@
-# Hacker New's `whoishiring` Submissions Historical Data
+# Hacker News `whoishiring` Historical Stats
 
 ![The chart backed by this data, showing HN hiring trends from July 2019 – July 2024](chart.png)
+
+Brief background: wanted to leverage the Hacker News API to get a sense of the
+hiring trends over the past 5 years, specifically given the COVID pandemic and
+the fall & rise of US Federal Reserve interest rates.
 
 Setup:
 
