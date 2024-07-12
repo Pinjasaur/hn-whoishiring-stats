@@ -6,7 +6,7 @@ Brief background: wanted to leverage the Hacker News API to get a sense of the
 hiring trends over the past 5 years, specifically given the COVID pandemic and
 the fall & rise of US Federal Reserve interest rates.
 
-Read more. _Coming soon._
+[Read more](https://paul.af/whoishiring).
 
 Setup:
 
